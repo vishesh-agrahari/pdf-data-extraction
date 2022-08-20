@@ -1,0 +1,57 @@
+{
+    "TextDetails": [
+        {
+            "page_no": "1",
+            "E-Way Bill No:": " 111009968973",
+            "E-Way Bill Date: ": "25-07-2022 12:10 PM",
+            "Generator:": " 29ADDPT0274H000-BDO Karnataka",
+            "Valid From : ": "25-07-2022 12:10 PM [5 Kms]",
+            "Valid Until : ": "26-07-2022 11:59 PM",
+            "IRN No:": " 9888f04ace1ed7bb4642 1 960a06d49602be4e4924f228cd05aad5ff80f21f149",
+            "Ack No:": " 212210140626867",
+            "Ack Date: ": "25-07-2022 12:08:00 PM",
+            "PART-A GSTIN Of Supplier:": " 29ADDPT0274H000,BDO KarnatakaDIGITAL PARK,39/40,ELECTRONICS CITY PHASE II KONAPPANAAGRAHARA,HOSUR ROAD ,Bengaluru,Karnataka-560100",
+            "Place Of Dispatch:": " gbgb,,bgbhvvbb,Maharashtra-400005",
+            "GSTIN of Recipient:": " 36AAECD4647F1ZP,ssssssaddrrr addreee,ddfgggg, Telangana-500001",
+            "Place of Delivery:": " fgggh, fghtfdssvbfdd,Maharashtra-400001",
+            "Document No:": " 25JULYSD005",
+            "Document Date:": " 25-07-2022",
+            "Transaction Type:": " Combination of 2 and 3",
+            "Value of Goods:": " 1000.00",
+            "HSN Code:": " 11081100 - vwwwwvwwv",
+            "Reason For Transportation:": " Outward - Supply",
+            "Transport No and Name :": " -",
+            "Transport Doc No and Date :": " 11111 - 25-07-2022"
+        }
+    ]
+}{
+    "Tabledata": [
+        {
+            "Page no": "1",
+            "Mode": "",
+            "Vehicle No/Trans Doc No &Trans Doc Dt.": "TM1221PB4922E,11111,25-07-2022",
+            "From": "vvbb",
+            "Entered Date": "25-07-2022 12:10:00 PM",
+            "Entered By": "29ADDPT0274H000",
+            "Multi Veh Info (if any)": null
+        }
+    ]
+}{
+    "QRCode Data": [
+        {
+            "page no": "1",
+            "EwbNo": "111009968973",
+            "EwbDt": "25-07-2022 12:10PM",
+            "Gen Dt": " ",
+            "EwbValidTill": "26-07-2022 11:59PM",
+            "Gen By": "29ADDPT0274H000"
+        }
+    ]
+}{
+    "BarCode Data": [
+        {
+            "page no": "1",
+            "BarCode Data": "111009968973"
+        }
+    ]
+}
