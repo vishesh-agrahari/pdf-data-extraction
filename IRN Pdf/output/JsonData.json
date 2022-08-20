@@ -1,0 +1,29 @@
+{
+    "Invoice_Details": [
+        {
+            "Page no": "1",
+            "Invoice No": " 25July22SP004 ",
+            "Date": " 25-07-2022",
+            "Doc Type": " INV ",
+            "POS": " 27",
+            "Customer GSTIN ": "27AABCT3518Q1ZW ",
+            "Customer PAN": " AABCT3518Q",
+            "Supply Type": " B2B ",
+            "Tax Scheme": " GST",
+            "Purchase Order No:": " ",
+            "Purchase Order Date:": "",
+            "Reverse Charge": " No",
+            "IRN": " 2cec9c11a11966fe7fa46bcd 1f57b4e830d77284f632f4958a4 2dd9d9f8aeb91",
+            "AckNo": "  212210140630152",
+            "Ack Date": " 25-07-2022 15:27:00",
+            "E-way Bill No:": " 141009969032 ",
+            "Date:": " 25-07-2022 15:27:00 ",
+            "Valid Till:": " 31-07-2022 23:59:00",
+            "Bill From:": "GSTIN: 29ADDPT0274H000Name: BDO Karnataka,Address: DIGITAL PARK,39/40,ELECTRONICS CITY ,,PHASE II KONAPPANA AGRAHARA,HOSURROADCity: Bengaluru Pin Code: 560100State Name & Code: Karnataka - 29Country: IndiaEmail: lalitdabhade@bdo.inContact: 9819843055",
+            "Bill_to": "GSTIN:27AABCT3518Q1ZWName:BDO B2B Inter Regular GoodsAddress:Dadar ,City:Mumbai Pin Code:State Name & Code: Maharashtra - 27Country:IndiaEmail:mitulvisaria@bdo.inContact:",
+            "Ship_to": "GSTIN:Name:Address:City:400099 Pin Code:State Name & Code:",
+            "Product details": "Sr. ae HSN/ z Taxable GST SGST/ Total Itempeepee _ os UTOST AmountOTHC (250.00)DISC 110819 | 10.000} oTH | 1100.00 10000.00 5.00 500.00 13750.00(1000.00) \u00b00.00Invoice Amount in words (Indian Currency): Rupees Thirteen Thousands Seven Hundred Fifty OnlyInvoice level discount (-)Invoice level other charges 0.00Invoice level Round off 1.00Total Invoice Amt (INR) 13750.00Total Invoice FC Amt 0.00",
+            "Total Invoice Amt (INR)": " 13750.00"
+        }
+    ]
+}
