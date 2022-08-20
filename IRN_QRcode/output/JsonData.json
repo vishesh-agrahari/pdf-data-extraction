@@ -1,0 +1,42 @@
+{
+    "page0": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"Z/001\",\"DocTyp\":\"INV\",\"DocDt\":\"18/04/2022\",\"TotInvVal\":5250,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"5800b973dd795448d04bde4b2441ead6d5a359569ef21e6cd962f8969942d1a8\",\"IrnDt\":\"2022-04-18 18:19:00\"}",
+        "iss": "NIC"
+    },
+    "page1": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/002\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":1180,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"b69c5dafcaa187cd36370d9d7f6d1ef29c04186b080df146625fde430228bc6c\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    },
+    "page2": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/005\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":1120,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"635f614db070cbc31ff8892a29dc4d9f4bc8065484f6d329590428f21e97de29\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    },
+    "page3": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/004\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":1120,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"cbdec38c0ff14fd8d8223523687e9586c2cba060d0b3c49a2ae13cc4f6776440\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    },
+    "page4": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/010\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":3540,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"1a31bc4e58d8c5c5c359bdfd8df51090c2fda824dc07827abb3a0cf0b29d17e5\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    },
+    "page5": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/009\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":1050,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"aa1f5bc459f8fed6ce26bbe5e7a6edc3427fb2ffa88a15b3c4c9b9d13a3b37ff\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    },
+    "page6": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/006\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":2240,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"236bfc117596207c80cb31826b1e5e8e30c65ed622b3a9a442b343c345f72b6d\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    },
+    "page7": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/007\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":1050,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"de2cf261ff1b077bc5643cd961893044945c3d5007f94d88e230cd128dc1251f\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    },
+    "page8": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/008\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":4200,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"33fc3980857634ee562fe1d9342f703a37ab77bf1454fb590cf459ae1790c690\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    },
+    "page9": {
+        "data": "{\"SellerGstin\":\"29ADDPT0274H000\",\"BuyerGstin\":\"24AAZFM1250H1Z5\",\"DocNo\":\"E/003\",\"DocTyp\":\"INV\",\"DocDt\":\"19/04/2022\",\"TotInvVal\":1180,\"ItemCnt\":1,\"MainHsnCode\":\"25151100\",\"Irn\":\"e09223d0ccb8f0ca9214bdf6ba9458de6b7156d6e36e2c6b79a353e59cfc00ff\",\"IrnDt\":\"2022-04-19 10:43:00\"}",
+        "iss": "NIC"
+    }
+}
