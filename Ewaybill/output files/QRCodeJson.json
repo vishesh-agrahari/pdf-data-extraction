@@ -1,0 +1,13 @@
+{
+    "status code": "200",
+    "message": "request successful",
+    "QRcode Data": [
+        {
+            "EwbNo": "311002960073",
+            "EwbDt ": " ",
+            "Gen Dt": "Thu Jul 28 17:36:00 IST 2022",
+            "EwbValidTill": " ",
+            "Gen By": "05AAACC2870R1ZD"
+        }
+    ]
+}
